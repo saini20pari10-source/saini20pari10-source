@@ -1,91 +1,74 @@
 ﻿<div align="center">
 
-<img src="profile.jpg" width="145" alt="Pari's Profile Photo" />
+<img src="profile.jpg" width="145" style="border-radius:50%;" />
 
-# PARI SAINI
+# Hey, I'm Pari! 👋
 
-### ✨ Aspiring Indie Game Developer | AI Developer
+### AI Developer · Indie Game Developer · BCA Student
 
-**Turning ideas into technology, one project at a time.**
+*Turning ideas into creative digital experiences.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/saini20pari10-source)
-[![Profile Views](https://komarev.com/ghpvc/?username=saini20pari10-source&style=for-the-badge&color=7C3AED)](https://github.com/saini20pari10-source)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Building+AI-powered+experiences;Learning+Game+Development;Creating+something+different+every+day" />
+
+<br/>
+
+<a href="https://github.com/saini20pari10-source">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## ✨ A Little About Me
 
-Hello! I'm Pari, a BCA student, aspiring indie game developer and AI enthusiast from India.
-
-I enjoy experimenting with technology, developing creative projects and learning new skills.
-
-- 🎮 Building **Five Elements** with Unreal Engine 5
-- 🤖 Founder & Developer of **AI Bharat Mentor**
-- 💻 Exploring game mechanics, Blueprints and AI
-- 🐍 Developing with Python, Flask and MySQL
-- 🌱 Learning, experimenting and improving every day
+- 🎓 BCA student passionate about technology.
+- 🤖 Exploring Artificial Intelligence and software development.
+- 🎮 Building my own indie game project.
+- 💡 I enjoy turning creative ideas into real projects.
+- 🌱 Always learning, experimenting and improving.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ My Creative Toolkit
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| 💻 Development | 🎨 Game & Design | 🧠 AI & Database |
+|:---:|:---:|:---:|
+| Python | Unreal Engine 5 | AI Integration |
+| JavaScript | Game Blueprints | Ollama |
+| React | Game Mechanics | MySQL |
+| Flask | UI Design | API Integration |
+| HTML & CSS |  |  |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects I'm Building
 
-<table>
-<tr>
-<td width="50%">
+### 🌈 AI Bharat Mentor
+**An AI-powered career and learning companion for students.**
+
+Helping students explore career paths, improve skills and build confidence through AI.
+
+`Python` `Flask` `React` `MySQL` `AI`
 
 ### 🎮 Five Elements
+**My indie game development journey.**
 
-An indie game development project built with Unreal Engine 5.
+Experimenting with Unreal Engine 5, game mechanics, Blueprints and creative gameplay ideas.
 
-**Focus:**
-- Game mechanics
-- Blueprints
-- Character systems
-- Environments
-
-</td>
-<td width="50%">
-
-### 🤖 AI Bharat Mentor
-
-An AI-powered career mentoring platform designed to help students with career guidance and skill development.
-
-**Built with:**
-- Python & Flask
-- React
-- MySQL
-- AI integration
-
-</td>
-</tr>
-</table>
+`Unreal Engine 5` `Blueprints` `Game Development`
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 My GitHub Journey
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saini20pari10-source&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saini20pari10-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=saini20pari10-source&theme=tokyonight&hide_border=true" />
 
@@ -95,20 +78,22 @@ An AI-powered career mentoring platform designed to help students with career gu
 
 ---
 
-## 🎯 My Vision
+## 🌱 Currently Exploring
 
-To become a skilled developer, build meaningful technology, create exciting games and collaborate with people around the world.
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-**Always open to learning, networking and meaningful collaborations.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-saini20pari10--source-181717?style=for-the-badge&logo=github)](https://github.com/saini20pari10-source)
+- Artificial Intelligence & AI-powered applications
+- Unreal Engine 5 and game development
+- Building useful projects independently
+- Improving problem-solving and development skills
 
 ---
 
-*Learning by building. Creating by experimenting.* ✨
+<div align="center">
+
+### 💜 Think. Create. Build. Repeat.
+
+*Every project starts with an idea. Every idea deserves a chance.*
+
+<img src="https://img.shields.io/badge/Made%20with-Curiosity-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/Always-Learning-06B6D4?style=flat-square" />
 
 </div>
