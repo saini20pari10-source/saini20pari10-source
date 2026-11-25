@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380">
+<defs>
+<linearGradient id="g"><stop stop-color="#08091c"/><stop offset="1" stop-color="#153b70"/></linearGradient>
+<radialGradient id="r"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#7c3aed"/></radialGradient>
+</defs>
+<rect width="1200" height="380" rx="25" fill="url(#g)"/>
+<circle cx="900" cy="185" r="120" fill="url(#r)" opacity=".65"/>
+<ellipse cx="900" cy="185" rx="190" ry="65" fill="none" stroke="#22d3ee" stroke-width="4" transform="rotate(-25 900 185)"/>
+<ellipse cx="900" cy="185" rx="190" ry="65" fill="none" stroke="#c084fc" stroke-width="3" transform="rotate(55 900 185)"/>
+<g font-family="Arial" fill="white">
+<text x="75" y="140" font-size="22" letter-spacing="7" fill="#22d3ee">WELCOME TO MY DIGITAL WORLD</text>
+<text x="75" y="225" font-size="76" font-weight="bold">BUILD THE</text>
+<text x="75" y="300" font-size="76" font-weight="bold" fill="#a78bfa">FUTURE.</text>
+</g>
+</svg>
