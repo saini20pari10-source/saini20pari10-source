@@ -1,94 +1,59 @@
-﻿
-<div align="center">
 
-<img src="assets/futuristic-banner.svg" width="100%" alt="Futuristic Technology Banner"/>
+# Hey, I'm Pari! 👋
 
-# PARI // DEVELOPER
+### AI Developer | Software Developer | Indie Game Developer
 
-### AI DEVELOPER · INDIE GAME DEVELOPER
+I'm a BCA student passionate about building AI-powered applications, learning new technologies, and creating interactive games.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+AI-powered+experiences;Exploring+Game+Development;Turning+Ideas+Into+Reality" alt="Animated developer tagline"/>
+I enjoy turning ideas into real projects through coding and creative problem-solving.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github)](https://github.com/saini20pari10-source)
+## 🚀 About Me
 
-</div>
+- 🎓 BCA Student
+- 🤖 Interested in Artificial Intelligence
+- 💻 Learning C++, Python and Web Development
+- 🎮 Exploring Indie Game Development
+- 🌱 Building projects and improving my coding skills
 
----
+## 🛠️ Tech Stack
 
-## `01 / ABOUT ME`
+- **Languages:** Python, C++
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Flask
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+- **AI:** Ollama, AI Integration
 
-**BCA Student | Developer | Creative Thinker**
+## 🎮 Featured Projects
 
-I enjoy exploring technology, building applications and turning creative ideas into real projects.
+### 1. AI Bharat Mentor (ABM)
+An AI-powered personal career and learning mentor for students.
 
-- Exploring Artificial Intelligence
-- Developing indie games
-- Learning new technologies
-- Building projects independently
-- Experimenting with creative solutions
+**Tech:** Python, Flask, React, MySQL, AI
 
----
+### 2. Classic Snake Game
+A classic snake game with interactive gameplay.
 
-## `02 / FEATURED PROJECTS`
+### 3. 2D Car Racing Game
+A browser-based racing game with keyboard controls.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 4. Memory Card Game
+A matching game built with interactive cards.
 
-### ◈ AI BHARAT MENTOR
+### 5. Number Guessing Game
+A C++ console game with random numbers and higher/lower hints.
 
-An AI-powered career and learning companion designed to help students explore career paths, improve skills and build confidence.
+### 6. Tic-Tac-Toe
+A two-player console game developed using C++.
 
-**Technologies**
+## 📊 My Goals
 
-`PYTHON` `FLASK` `REACT` `MYSQL` `AI`
+- Improve my software development skills.
+- Build useful AI-powered applications.
+- Learn professional game development.
+- Contribute to open-source projects.
 
-</td>
-<td width="50%" valign="top">
+## 🌐 Connect With Me
 
-### ◈ FIVE ELEMENTS
-
-An indie game development project exploring gameplay, mechanics and interactive worlds using Unreal Engine.
-
-**Technologies**
-
-`UNREAL ENGINE 5` `BLUEPRINTS` `GAME DEV`
-
-</td>
-</tr>
-</table>
-
----
-
-## `03 / CURRENTLY EXPLORING`
-
-- Artificial Intelligence and AI integrations
-- Unreal Engine 5 and game mechanics
-- Blueprint-based game development
-- Frontend development
-- Creative UI design
-
----
-
-## `04 / GITHUB ANALYTICS`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saini20pari10-source&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA" alt="GitHub stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saini20pari10-source&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" alt="Top languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `DESIGN // DEVELOP // DISCOVER`
-
-**Curiosity is the engine. Creation is the journey.**
-
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ALWAYS-CREATING-8B5CF6?style=for-the-badge"/>
-
-</div>
+- **GitHub:** https://github.com/saini20pari10-source
+- **Email:** saini20pari10@gmail.com
