@@ -1,59 +1,98 @@
+﻿<div align="center">
 
-# Hey, I'm Pari! 👋
+<img src="./profile-banner.png" width="100%" alt="Pari Developer Banner">
 
-### AI Developer | Software Developer | Indie Game Developer
+# ⚡ PARI.EXE
 
-I'm a BCA student passionate about building AI-powered applications, learning new technologies, and creating interactive games.
+### `AI DEVELOPER` · `SOFTWARE DEVELOPER` · `INDIE GAME CREATOR`
 
-I enjoy turning ideas into real projects through coding and creative problem-solving.
+**Think. Create. Experiment. Build.**
 
-## 🚀 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-saini20pari10--source-181717?style=for-the-badge&logo=github)](https://github.com/saini20pari10-source)
+[![Email](https://img.shields.io/badge/Email-Contact-purple?style=for-the-badge&logo=gmail)](mailto:saini20pari10@gmail.com)
 
-- 🎓 BCA Student
-- 🤖 Interested in Artificial Intelligence
-- 💻 Learning C++, Python and Web Development
-- 🎮 Exploring Indie Game Development
-- 🌱 Building projects and improving my coding skills
+</div>
 
-## 🛠️ Tech Stack
+---
 
-- **Languages:** Python, C++
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Flask
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code
-- **AI:** Ollama, AI Integration
+## 👩‍💻 `whoami`
 
-## 🎮 Featured Projects
+Hi! I'm a BCA student from India passionate about technology, creativity and problem-solving.
 
-### 1. AI Bharat Mentor (ABM)
-An AI-powered personal career and learning mentor for students.
+I enjoy building AI-powered applications, experimenting with programming languages and creating interactive games.
 
-**Tech:** Python, Flask, React, MySQL, AI
+- 🤖 Building AI-based projects
+- 🎮 Exploring game development
+- 💻 Learning through practical coding
+- 🚀 Turning creative ideas into real applications
 
-### 2. Classic Snake Game
-A classic snake game with interactive gameplay.
+## ⚙️ `tech_stack`
 
-### 3. 2D Car Racing Game
-A browser-based racing game with keyboard controls.
+**Programming Languages**
 
-### 4. Memory Card Game
-A matching game built with interactive cards.
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
+![CSharp](https://img.shields.io/badge/C%23-68217A?style=flat-square&logo=csharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql)
 
-### 5. Number Guessing Game
-A C++ console game with random numbers and higher/lower hints.
+**Development Tools & Technologies**
 
-### 6. Tic-Tac-Toe
-A two-player console game developed using C++.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
 
-## 📊 My Goals
+## 🚀 `featured_projects`
 
-- Improve my software development skills.
-- Build useful AI-powered applications.
-- Learn professional game development.
-- Contribute to open-source projects.
+### 🤖 AI Bharat Mentor — ABM
+An AI-powered personal career and learning mentor designed to help students explore careers, improve skills and prepare for opportunities.
 
-## 🌐 Connect With Me
+**Tech:** Python · Flask · React · MySQL · AI
 
-- **GitHub:** https://github.com/saini20pari10-source
-- **Email:** saini20pari10@gmail.com
+[![Explore ABM](https://img.shields.io/badge/Explore-ABM-8955ff?style=for-the-badge&logo=github)](https://github.com/saini20pari10-source/AI-Bharat-Mentor)
+
+### 🎮 Game Development Lab
+
+| Project | Technology | Repository |
+|---|---|---|
+| 🐍 Classic Snake Game | HTML, CSS, JS | [View](https://github.com/saini20pari10-source/Classic-Snake-Game) |
+| 🏎️ 2D Car Racing Game | HTML, CSS, JS | [View](https://github.com/saini20pari10-source/2D-Car-Racing-Game) |
+| 🧠 Memory Card Game | HTML, CSS, JS | [View](https://github.com/saini20pari10-source/Memory-Card-Game) |
+| 🔢 Number Guessing Game | C++ | [View](https://github.com/saini20pari10-source/Number-Guessing-Game-CPP) |
+| ❌ Tic-Tac-Toe | C++ | [Repository](https://github.com/saini20pari10-source/Tic-Tac-Toe-CPP) |
+
+## 📊 `github_analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saini20pari10-source&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saini20pari10-source&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+
+</div>
+
+## 🎯 `next_mission`
+
+- Build more AI-powered applications.
+- Explore graphical game development.
+- Improve software engineering skills.
+- Collaborate on creative projects.
+- Contribute to open-source.
+
+---
+
+<div align="center">
+
+### 💜 DREAM BIG. CODE BETTER. BUILD FEARLESSLY.
+
+**Thanks for visiting my digital world!**
+
+`PARI.EXE — Always Learning, Always Building.`
+
+</div>
